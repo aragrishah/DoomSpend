@@ -1,0 +1,1201 @@
+date,description,amount,category
+2026-01-29,swiggy order,964,food
+2026-02-05,random expense,16825,income
+2026-01-09,misc payment,2119,food
+2026-01-07,online order,1768,shopping
+2026-02-26,electricity bill,703,bills
+2026-04-19,netflix subscription,1428,entertainment
+2026-01-27,canteen lunch,1458,food
+2026-03-09,coffee cafe,561,food
+2026-04-07,dinner with friends,2624,food
+2026-04-03,amazon purchase,237,shopping
+2026-02-28,netflix subscription,463,entertainment
+2026-04-08,spotify subscription,716,entertainment
+2026-04-05,spotify subscription,2924,entertainment
+2026-01-19,online order,1052,shopping
+2026-02-11,wifi bill,2854,bills
+2026-03-25,zomato order,1342,food
+2026-04-13,general spending,920,entertainment
+2026-05-08,monthly recharge,635,bills
+2026-03-09,auto ride,2257,travel
+2026-03-09,bonus,14861,income
+2026-02-26,uber ride,242,travel
+2026-01-29,trip expense,1779,travel
+2026-01-17,monthly recharge,2217,bills
+2026-03-06,amazon purchase,2836,shopping
+2026-01-30,pocket money,14146,income
+2026-01-29,gaming,63,entertainment
+2026-03-09,online order,485,shopping
+2026-03-18,freelance payment,8008,income
+2026-04-06,auto ride,52,travel
+2026-03-24,general spending,1309,bills
+2026-03-03,coffee cafe,372,food
+2026-01-22,internship stipend,7120,income
+2026-02-02,freelance payment,11685,income
+2026-05-16,flipkart order,2258,shopping
+2026-02-21,pocket money,17355,income
+2026-05-13,misc payment,312,bills
+2026-03-28,swiggy order,2460,food
+2026-02-26,random expense,987,food
+2026-01-18,zomato order,2155,food
+2026-03-02,netflix subscription,2258,entertainment
+2026-02-03,bonus,10962,income
+2026-05-02,electricity bill,2749,bills
+2026-04-21,gaming,271,entertainment
+2026-01-26,canteen lunch,497,food
+2026-03-05,metro card recharge,624,travel
+2026-04-19,ola cab,358,travel
+2026-04-24,random expense,432,shopping
+2026-03-02,metro card recharge,925,travel
+2026-04-13,zomato order,1649,food
+2026-03-09,monthly recharge,684,bills
+2026-02-18,movie tickets,2422,entertainment
+2026-05-19,zomato order,255,food
+2026-05-30,wifi bill,282,bills
+2026-05-11,zomato order,2487,food
+2026-01-18,bonus,6928,income
+2026-05-26,uber ride,2586,travel
+2026-01-21,mobile recharge,1118,bills
+2026-02-22,freelance payment,11703,income
+2026-04-12,bus ticket,1922,travel
+2026-03-22,random expense,350,food
+2026-05-18,ola cab,1479,travel
+2026-01-18,ola cab,1844,travel
+2026-05-20,internship stipend,12810,income
+2026-01-27,uber ride,2316,travel
+2026-02-09,netflix subscription,2989,entertainment
+2026-03-29,bus ticket,2120,travel
+2026-05-06,movie tickets,428,entertainment
+2026-04-19,general spending,585,entertainment
+2026-03-09,auto ride,2940,travel
+2026-04-20,random expense,2880,shopping
+2026-02-08,general spending,2435,shopping
+2026-05-22,uber ride,1312,travel
+2026-04-04,swiggy order,2843,food
+2026-03-05,other purchase,8064,income
+2026-03-02,ola cab,1738,travel
+2026-01-07,bus ticket,1736,travel
+2026-03-05,weekend outing,492,entertainment
+2026-04-08,swiggy order,867,food
+2026-04-28,netflix subscription,963,entertainment
+2026-01-07,pocket money,12129,income
+2026-01-18,concert ticket,1687,entertainment
+2026-05-18,movie tickets,1119,entertainment
+2026-02-15,clothes shopping,206,shopping
+2026-01-28,clothes shopping,1837,shopping
+2026-05-11,coffee cafe,828,food
+2026-03-07,zomato order,2179,food
+2026-05-18,freelance payment,14934,income
+2026-04-21,canteen lunch,2602,food
+2026-03-22,pocket money,19617,income
+2026-03-21,bonus,12688,income
+2026-05-22,trip expense,1602,travel
+2026-02-14,stationery,2294,shopping
+2026-01-01,gaming,2425,entertainment
+2026-03-24,wifi bill,2143,bills
+2026-05-02,internship stipend,12299,income
+2026-05-12,pocket money,6060,income
+2026-03-02,freelance payment,7828,income
+2026-01-07,restaurant dinner,2553,food
+2026-01-19,wifi bill,2992,bills
+2026-04-09,wifi bill,2737,bills
+2026-01-02,swiggy order,770,food
+2026-05-13,misc payment,547,bills
+2026-04-27,trip expense,2225,travel
+2026-05-24,stationery,2559,shopping
+2026-05-10,monthly recharge,701,bills
+2026-05-02,wifi bill,2661,bills
+2026-03-12,flipkart order,1174,shopping
+2026-04-23,swiggy order,1162,food
+2026-03-27,movie tickets,616,entertainment
+2026-02-08,ola cab,2943,travel
+2026-02-24,canteen lunch,2272,food
+2026-04-30,other purchase,1645,bills
+2026-05-30,other purchase,18629,income
+2026-01-02,gaming,1766,entertainment
+2026-05-18,freelance payment,18998,income
+2026-02-26,movie tickets,1642,entertainment
+2026-03-28,bonus,8408,income
+2026-04-30,auto ride,160,travel
+2026-04-11,amazon purchase,393,shopping
+2026-04-20,ola cab,255,travel
+2026-03-08,monthly recharge,1388,bills
+2026-03-28,monthly recharge,1083,bills
+2026-01-21,random expense,1483,bills
+2026-02-27,random expense,4016,income
+2026-03-05,auto ride,674,travel
+2026-03-03,uber ride,2360,travel
+2026-02-25,mobile recharge,737,bills
+2026-01-30,uber ride,2420,travel
+2026-01-07,gaming,1674,entertainment
+2026-02-20,dinner with friends,2619,food
+2026-03-04,canteen lunch,2852,food
+2026-01-31,clothes shopping,2232,shopping
+2026-04-20,pocket money,3414,income
+2026-04-18,general spending,2653,bills
+2026-04-28,freelance payment,11850,income
+2026-05-18,mobile recharge,1370,bills
+2026-03-04,restaurant dinner,1048,food
+2026-04-29,stationery,1427,shopping
+2026-01-08,wifi bill,2047,bills
+2026-02-24,spotify subscription,1195,entertainment
+2026-03-12,misc payment,400,shopping
+2026-03-03,freelance payment,18600,income
+2026-05-06,electricity bill,1255,bills
+2026-02-26,mobile recharge,2769,bills
+2026-05-29,concert ticket,1458,entertainment
+2026-04-19,pocket money,17868,income
+2026-03-11,movie tickets,838,entertainment
+2026-03-22,dinner with friends,2876,food
+2026-02-17,metro card recharge,1182,travel
+2026-05-31,amazon purchase,845,shopping
+2026-03-17,bus ticket,107,travel
+2026-05-17,uber ride,2316,travel
+2026-03-16,bonus,6361,income
+2026-01-04,stationery,1854,shopping
+2026-03-29,bus ticket,2006,travel
+2026-01-30,zomato order,2413,food
+2026-01-14,general spending,398,travel
+2026-03-05,restaurant dinner,2533,food
+2026-02-27,stationery,1267,shopping
+2026-05-31,electricity bill,2547,bills
+2026-01-26,bus ticket,2755,travel
+2026-01-21,auto ride,357,travel
+2026-02-10,snacks,2482,food
+2026-05-01,general spending,2945,entertainment
+2026-03-14,internship stipend,10648,income
+2026-03-09,freelance payment,16930,income
+2026-01-30,flipkart order,1138,shopping
+2026-02-06,general spending,2487,food
+2026-05-26,gaming,2870,entertainment
+2026-03-19,pocket money,19399,income
+2026-05-19,electricity bill,1819,bills
+2026-03-24,amazon purchase,987,shopping
+2026-05-28,clothes shopping,2410,shopping
+2026-01-11,trip expense,1861,travel
+2026-03-13,metro card recharge,2650,travel
+2026-05-06,restaurant dinner,1415,food
+2026-03-24,misc payment,13807,income
+2026-04-16,bonus,4202,income
+2026-04-27,canteen lunch,524,food
+2026-04-14,amazon purchase,2743,shopping
+2026-05-19,wifi bill,2173,bills
+2026-04-03,stationery,261,shopping
+2026-02-22,spotify subscription,1844,entertainment
+2026-05-05,misc payment,2957,food
+2026-02-10,concert ticket,1721,entertainment
+2026-01-24,uber ride,1940,travel
+2026-01-31,bonus,12563,income
+2026-05-11,bonus,18473,income
+2026-03-04,monthly recharge,830,bills
+2026-05-11,internship stipend,12052,income
+2026-04-17,concert ticket,1144,entertainment
+2026-01-01,concert ticket,2425,entertainment
+2026-05-06,metro card recharge,1463,travel
+2026-03-27,stationery,1915,shopping
+2026-03-24,ola cab,2392,travel
+2026-04-09,metro card recharge,228,travel
+2026-03-23,bonus,15651,income
+2026-02-08,wifi bill,2107,bills
+2026-03-26,restaurant dinner,458,food
+2026-05-15,misc payment,1729,bills
+2026-02-09,canteen lunch,1436,food
+2026-04-12,general spending,15452,income
+2026-03-23,bonus,4176,income
+2026-01-18,bus ticket,981,travel
+2026-01-24,electricity bill,1867,bills
+2026-02-12,internship stipend,4507,income
+2026-03-25,canteen lunch,1814,food
+2026-02-07,auto ride,2842,travel
+2026-02-16,auto ride,1616,travel
+2026-03-03,wifi bill,1001,bills
+2026-04-29,pocket money,3307,income
+2026-04-30,netflix subscription,352,entertainment
+2026-04-24,spotify subscription,2667,entertainment
+2026-04-19,pocket money,9527,income
+2026-04-09,other purchase,2392,bills
+2026-04-02,clothes shopping,139,shopping
+2026-04-12,random expense,2533,entertainment
+2026-05-08,netflix subscription,2536,entertainment
+2026-04-01,auto ride,1076,travel
+2026-02-05,random expense,13123,income
+2026-04-23,snacks,588,food
+2026-01-24,gaming,769,entertainment
+2026-02-21,bus ticket,2224,travel
+2026-05-09,spotify subscription,2023,entertainment
+2026-03-17,internship stipend,18346,income
+2026-01-20,ola cab,2820,travel
+2026-04-12,stationery,107,shopping
+2026-03-09,general spending,2805,shopping
+2026-03-09,clothes shopping,493,shopping
+2026-03-01,general spending,2548,bills
+2026-02-26,other purchase,12902,income
+2026-04-15,random expense,1296,food
+2026-05-07,misc payment,1641,food
+2026-04-27,weekend outing,2902,entertainment
+2026-05-19,wifi bill,1749,bills
+2026-01-26,mobile recharge,184,bills
+2026-04-05,ola cab,1535,travel
+2026-01-26,pocket money,4984,income
+2026-04-12,movie tickets,1912,entertainment
+2026-01-24,internship stipend,4657,income
+2026-03-27,auto ride,890,travel
+2026-01-18,flipkart order,1004,shopping
+2026-03-26,auto ride,61,travel
+2026-03-12,auto ride,1076,travel
+2026-02-14,zomato order,589,food
+2026-01-04,netflix subscription,2461,entertainment
+2026-03-24,zomato order,569,food
+2026-04-18,random expense,2000,shopping
+2026-04-25,movie tickets,1901,entertainment
+2026-05-09,uber ride,2748,travel
+2026-05-14,movie tickets,299,entertainment
+2026-05-03,electricity bill,2058,bills
+2026-04-24,canteen lunch,2541,food
+2026-02-07,general spending,1610,food
+2026-05-16,concert ticket,1812,entertainment
+2026-01-26,misc payment,17092,income
+2026-04-26,metro card recharge,1683,travel
+2026-04-17,other purchase,13240,income
+2026-03-07,weekend outing,1992,entertainment
+2026-01-18,zomato order,1818,food
+2026-01-25,freelance payment,4965,income
+2026-05-31,amazon purchase,1732,shopping
+2026-04-01,bonus,4685,income
+2026-03-15,amazon purchase,2417,shopping
+2026-05-10,metro card recharge,968,travel
+2026-01-28,spotify subscription,520,entertainment
+2026-03-13,stationery,2347,shopping
+2026-05-23,snacks,2890,food
+2026-03-10,snacks,1315,food
+2026-03-28,misc payment,2369,entertainment
+2026-04-13,random expense,425,food
+2026-05-16,metro card recharge,1446,travel
+2026-02-10,spotify subscription,2374,entertainment
+2026-01-22,dinner with friends,2580,food
+2026-01-13,other purchase,16894,income
+2026-05-05,clothes shopping,932,shopping
+2026-05-12,zomato order,1210,food
+2026-05-05,amazon purchase,953,shopping
+2026-04-12,misc payment,1284,shopping
+2026-02-24,bus ticket,1393,travel
+2026-01-31,restaurant dinner,769,food
+2026-02-03,wifi bill,2099,bills
+2026-05-24,internship stipend,16011,income
+2026-01-11,random expense,1332,bills
+2026-05-28,monthly recharge,1235,bills
+2026-01-30,general spending,753,bills
+2026-04-28,internship stipend,17310,income
+2026-01-28,metro card recharge,2196,travel
+2026-01-21,mobile recharge,957,bills
+2026-03-27,random expense,2223,travel
+2026-05-11,bus ticket,1488,travel
+2026-02-07,general spending,858,travel
+2026-02-14,amazon purchase,775,shopping
+2026-05-07,monthly recharge,2839,bills
+2026-05-25,pocket money,13359,income
+2026-02-08,other purchase,2636,bills
+2026-03-19,spotify subscription,2128,entertainment
+2026-01-19,movie tickets,283,entertainment
+2026-04-05,random expense,2569,entertainment
+2026-05-10,electricity bill,1892,bills
+2026-05-27,bonus,19428,income
+2026-02-08,dinner with friends,1456,food
+2026-01-22,amazon purchase,1064,shopping
+2026-04-23,wifi bill,1540,bills
+2026-04-06,spotify subscription,2830,entertainment
+2026-01-14,internship stipend,13803,income
+2026-01-25,clothes shopping,1082,shopping
+2026-02-08,misc payment,1482,entertainment
+2026-03-21,bonus,7225,income
+2026-01-22,weekend outing,1395,entertainment
+2026-02-02,internship stipend,16874,income
+2026-05-11,general spending,788,entertainment
+2026-02-24,gaming,836,entertainment
+2026-02-27,bus ticket,464,travel
+2026-05-10,online order,204,shopping
+2026-03-28,other purchase,681,shopping
+2026-02-11,auto ride,728,travel
+2026-04-23,snacks,2997,food
+2026-03-02,monthly recharge,1008,bills
+2026-05-17,metro card recharge,844,travel
+2026-04-05,bonus,18128,income
+2026-03-14,monthly recharge,713,bills
+2026-02-21,general spending,263,shopping
+2026-05-04,movie tickets,2963,entertainment
+2026-05-13,dinner with friends,706,food
+2026-03-11,wifi bill,1841,bills
+2026-01-24,bus ticket,159,travel
+2026-04-17,canteen lunch,1015,food
+2026-04-09,zomato order,1355,food
+2026-01-26,freelance payment,7508,income
+2026-01-10,gaming,2901,entertainment
+2026-02-05,internship stipend,5596,income
+2026-01-05,netflix subscription,2297,entertainment
+2026-05-16,general spending,1023,bills
+2026-03-19,other purchase,2667,food
+2026-04-28,other purchase,2494,food
+2026-05-18,coffee cafe,1040,food
+2026-02-06,concert ticket,1495,entertainment
+2026-03-03,amazon purchase,2194,shopping
+2026-04-03,coffee cafe,2128,food
+2026-05-10,other purchase,228,shopping
+2026-04-10,movie tickets,1512,entertainment
+2026-01-18,weekend outing,2623,entertainment
+2026-01-27,clothes shopping,596,shopping
+2026-01-12,weekend outing,767,entertainment
+2026-04-29,freelance payment,7418,income
+2026-01-17,bonus,4211,income
+2026-03-17,misc payment,221,travel
+2026-03-22,concert ticket,1989,entertainment
+2026-03-06,swiggy order,1221,food
+2026-04-02,canteen lunch,1169,food
+2026-02-01,gaming,1851,entertainment
+2026-04-09,gaming,2884,entertainment
+2026-05-08,concert ticket,1142,entertainment
+2026-01-22,bonus,8913,income
+2026-05-20,movie tickets,1393,entertainment
+2026-03-17,weekend outing,1795,entertainment
+2026-02-12,bonus,4387,income
+2026-04-01,clothes shopping,2669,shopping
+2026-01-15,restaurant dinner,1538,food
+2026-05-12,internship stipend,7678,income
+2026-04-23,misc payment,2692,food
+2026-04-04,concert ticket,182,entertainment
+2026-02-09,pocket money,15190,income
+2026-04-24,coffee cafe,1553,food
+2026-04-12,netflix subscription,514,entertainment
+2026-01-07,bonus,6858,income
+2026-03-09,netflix subscription,2556,entertainment
+2026-03-15,bonus,9559,income
+2026-02-01,metro card recharge,757,travel
+2026-04-24,dinner with friends,1359,food
+2026-03-30,general spending,12828,income
+2026-02-10,freelance payment,14845,income
+2026-05-11,misc payment,618,travel
+2026-03-02,general spending,1964,bills
+2026-05-22,uber ride,319,travel
+2026-03-21,monthly recharge,2203,bills
+2026-04-16,electricity bill,563,bills
+2026-03-23,other purchase,19952,income
+2026-03-30,auto ride,2670,travel
+2026-05-31,ola cab,1822,travel
+2026-05-09,coffee cafe,676,food
+2026-03-19,trip expense,973,travel
+2026-03-30,amazon purchase,1076,shopping
+2026-02-20,pocket money,7101,income
+2026-03-19,online order,2675,shopping
+2026-02-13,flipkart order,751,shopping
+2026-03-28,random expense,382,shopping
+2026-01-12,pocket money,9907,income
+2026-05-27,electricity bill,2089,bills
+2026-05-20,spotify subscription,2028,entertainment
+2026-03-04,bonus,5391,income
+2026-01-16,metro card recharge,1952,travel
+2026-02-22,spotify subscription,2992,entertainment
+2026-03-23,pocket money,16065,income
+2026-02-03,movie tickets,1357,entertainment
+2026-03-03,other purchase,1065,bills
+2026-02-06,other purchase,2570,food
+2026-04-18,ola cab,1391,travel
+2026-05-28,freelance payment,19327,income
+2026-05-12,mobile recharge,2087,bills
+2026-01-06,coffee cafe,1922,food
+2026-03-03,uber ride,257,travel
+2026-03-14,monthly recharge,1220,bills
+2026-05-18,restaurant dinner,598,food
+2026-03-09,bonus,14991,income
+2026-01-12,misc payment,1534,bills
+2026-05-22,other purchase,2302,entertainment
+2026-03-13,amazon purchase,577,shopping
+2026-01-25,mobile recharge,2334,bills
+2026-04-04,auto ride,1694,travel
+2026-05-09,misc payment,2972,food
+2026-03-27,wifi bill,2533,bills
+2026-05-12,auto ride,1354,travel
+2026-02-11,mobile recharge,2481,bills
+2026-03-28,online order,2056,shopping
+2026-05-25,movie tickets,1558,entertainment
+2026-03-26,other purchase,13081,income
+2026-01-07,online order,2415,shopping
+2026-02-28,other purchase,8587,income
+2026-05-15,bonus,7842,income
+2026-03-04,snacks,500,food
+2026-02-18,restaurant dinner,670,food
+2026-04-16,bonus,5040,income
+2026-02-05,clothes shopping,2762,shopping
+2026-05-03,flipkart order,1932,shopping
+2026-05-17,weekend outing,2838,entertainment
+2026-03-09,flipkart order,1192,shopping
+2026-05-23,spotify subscription,1233,entertainment
+2026-02-23,pocket money,18722,income
+2026-03-31,clothes shopping,1228,shopping
+2026-02-01,stationery,1666,shopping
+2026-03-30,bus ticket,2975,travel
+2026-01-21,weekend outing,1100,entertainment
+2026-05-03,auto ride,1160,travel
+2026-05-24,internship stipend,10840,income
+2026-03-04,coffee cafe,974,food
+2026-03-01,general spending,2988,food
+2026-05-01,swiggy order,71,food
+2026-05-21,metro card recharge,2005,travel
+2026-02-21,weekend outing,292,entertainment
+2026-01-23,internship stipend,8736,income
+2026-04-17,uber ride,1676,travel
+2026-05-07,bus ticket,203,travel
+2026-01-03,movie tickets,1422,entertainment
+2026-03-14,monthly recharge,599,bills
+2026-05-10,electricity bill,1404,bills
+2026-02-11,pocket money,9101,income
+2026-01-04,pocket money,9329,income
+2026-02-14,stationery,1801,shopping
+2026-05-12,random expense,806,entertainment
+2026-02-05,wifi bill,77,bills
+2026-03-08,mobile recharge,1400,bills
+2026-03-19,amazon purchase,1121,shopping
+2026-04-03,internship stipend,18250,income
+2026-03-20,auto ride,2931,travel
+2026-03-21,general spending,15043,income
+2026-02-26,metro card recharge,677,travel
+2026-04-27,pocket money,16626,income
+2026-05-21,wifi bill,1063,bills
+2026-01-21,clothes shopping,369,shopping
+2026-05-25,misc payment,2395,food
+2026-05-18,auto ride,1859,travel
+2026-01-30,bonus,5979,income
+2026-05-11,monthly recharge,590,bills
+2026-05-12,electricity bill,2338,bills
+2026-04-29,internship stipend,15974,income
+2026-03-07,coffee cafe,349,food
+2026-01-12,electricity bill,2266,bills
+2026-01-16,restaurant dinner,179,food
+2026-03-15,wifi bill,2677,bills
+2026-04-18,gaming,1887,entertainment
+2026-04-07,misc payment,2726,bills
+2026-03-31,coffee cafe,1659,food
+2026-05-16,ola cab,64,travel
+2026-01-06,weekend outing,2280,entertainment
+2026-04-19,flipkart order,1063,shopping
+2026-04-28,netflix subscription,512,entertainment
+2026-01-09,internship stipend,10886,income
+2026-02-22,random expense,1878,food
+2026-01-13,metro card recharge,1847,travel
+2026-03-01,amazon purchase,623,shopping
+2026-05-09,weekend outing,2409,entertainment
+2026-03-23,clothes shopping,1020,shopping
+2026-03-19,auto ride,955,travel
+2026-04-16,concert ticket,2473,entertainment
+2026-02-14,bonus,4536,income
+2026-03-30,pocket money,16642,income
+2026-04-15,ola cab,2253,travel
+2026-05-02,bus ticket,2948,travel
+2026-02-06,monthly recharge,1756,bills
+2026-05-23,misc payment,1094,shopping
+2026-02-22,gaming,1569,entertainment
+2026-01-24,flipkart order,261,shopping
+2026-03-10,electricity bill,348,bills
+2026-02-18,online order,938,shopping
+2026-05-03,bus ticket,1291,travel
+2026-01-04,trip expense,530,travel
+2026-05-03,trip expense,887,travel
+2026-04-12,bus ticket,1609,travel
+2026-04-30,clothes shopping,1121,shopping
+2026-04-03,stationery,453,shopping
+2026-05-01,spotify subscription,1331,entertainment
+2026-04-16,swiggy order,647,food
+2026-01-05,concert ticket,2422,entertainment
+2026-04-17,spotify subscription,992,entertainment
+2026-04-08,stationery,2305,shopping
+2026-03-28,gaming,2678,entertainment
+2026-05-06,mobile recharge,743,bills
+2026-02-05,freelance payment,4924,income
+2026-05-15,zomato order,2787,food
+2026-01-13,dinner with friends,2633,food
+2026-03-01,zomato order,945,food
+2026-05-10,monthly recharge,2750,bills
+2026-05-05,other purchase,98,food
+2026-01-05,online order,1224,shopping
+2026-01-05,stationery,784,shopping
+2026-01-28,swiggy order,836,food
+2026-05-15,spotify subscription,1675,entertainment
+2026-01-21,gaming,2364,entertainment
+2026-03-04,internship stipend,4038,income
+2026-01-24,monthly recharge,279,bills
+2026-01-03,bonus,17218,income
+2026-03-26,amazon purchase,2213,shopping
+2026-01-11,trip expense,2371,travel
+2026-05-02,random expense,2853,entertainment
+2026-03-13,amazon purchase,784,shopping
+2026-03-22,coffee cafe,640,food
+2026-04-12,coffee cafe,1034,food
+2026-05-26,mobile recharge,1622,bills
+2026-02-05,pocket money,4759,income
+2026-01-26,electricity bill,1445,bills
+2026-04-12,general spending,1895,entertainment
+2026-05-06,metro card recharge,1818,travel
+2026-02-17,bonus,5808,income
+2026-03-17,uber ride,1147,travel
+2026-02-09,wifi bill,1645,bills
+2026-03-23,random expense,1312,entertainment
+2026-04-24,movie tickets,592,entertainment
+2026-01-23,auto ride,2322,travel
+2026-05-12,random expense,1499,bills
+2026-05-22,dinner with friends,1378,food
+2026-04-09,restaurant dinner,396,food
+2026-05-24,ola cab,2857,travel
+2026-04-08,general spending,1149,travel
+2026-05-07,other purchase,1180,travel
+2026-04-18,movie tickets,1529,entertainment
+2026-03-06,metro card recharge,2482,travel
+2026-02-20,general spending,77,bills
+2026-04-12,gaming,1399,entertainment
+2026-04-23,weekend outing,2484,entertainment
+2026-02-04,weekend outing,872,entertainment
+2026-05-03,gaming,1357,entertainment
+2026-03-16,bonus,10943,income
+2026-03-25,monthly recharge,1545,bills
+2026-01-30,online order,786,shopping
+2026-05-21,restaurant dinner,2951,food
+2026-02-23,electricity bill,1725,bills
+2026-05-08,ola cab,1084,travel
+2026-02-09,bonus,5423,income
+2026-04-25,stationery,2238,shopping
+2026-05-10,internship stipend,14781,income
+2026-05-18,amazon purchase,497,shopping
+2026-03-05,freelance payment,4451,income
+2026-05-25,bonus,13865,income
+2026-04-21,general spending,959,food
+2026-05-11,freelance payment,17607,income
+2026-04-06,wifi bill,1462,bills
+2026-01-07,other purchase,401,bills
+2026-01-30,general spending,14241,income
+2026-04-27,bus ticket,2000,travel
+2026-01-25,monthly recharge,1356,bills
+2026-01-18,random expense,142,entertainment
+2026-03-29,misc payment,10992,income
+2026-05-13,bus ticket,2343,travel
+2026-04-20,monthly recharge,2629,bills
+2026-02-17,metro card recharge,1670,travel
+2026-01-08,freelance payment,17731,income
+2026-04-20,misc payment,892,bills
+2026-03-13,internship stipend,6334,income
+2026-05-18,ola cab,1924,travel
+2026-01-30,gaming,2211,entertainment
+2026-03-22,stationery,2454,shopping
+2026-01-30,gaming,2578,entertainment
+2026-02-14,pocket money,5777,income
+2026-02-04,general spending,529,entertainment
+2026-02-16,concert ticket,1641,entertainment
+2026-04-18,other purchase,1782,shopping
+2026-02-17,wifi bill,2322,bills
+2026-02-12,wifi bill,1338,bills
+2026-04-26,general spending,89,shopping
+2026-05-05,metro card recharge,2350,travel
+2026-05-10,bonus,16619,income
+2026-04-24,electricity bill,953,bills
+2026-03-16,coffee cafe,1232,food
+2026-02-13,monthly recharge,2301,bills
+2026-05-11,canteen lunch,2274,food
+2026-04-04,amazon purchase,2994,shopping
+2026-04-23,stationery,469,shopping
+2026-03-05,movie tickets,1892,entertainment
+2026-03-09,movie tickets,1848,entertainment
+2026-01-31,trip expense,2458,travel
+2026-03-31,bonus,8438,income
+2026-02-05,uber ride,2385,travel
+2026-03-31,online order,739,shopping
+2026-03-24,pocket money,19856,income
+2026-01-25,metro card recharge,292,travel
+2026-03-12,misc payment,11181,income
+2026-02-07,freelance payment,15868,income
+2026-05-06,bus ticket,2621,travel
+2026-04-17,electricity bill,1700,bills
+2026-05-12,pocket money,17899,income
+2026-05-05,weekend outing,431,entertainment
+2026-04-28,pocket money,5075,income
+2026-05-17,monthly recharge,917,bills
+2026-05-07,spotify subscription,1433,entertainment
+2026-05-21,other purchase,1457,shopping
+2026-01-13,other purchase,116,food
+2026-02-01,uber ride,1802,travel
+2026-02-21,pocket money,8209,income
+2026-03-12,canteen lunch,387,food
+2026-04-06,freelance payment,4696,income
+2026-04-12,freelance payment,17065,income
+2026-01-24,misc payment,18624,income
+2026-01-20,auto ride,2835,travel
+2026-04-24,general spending,543,food
+2026-04-19,random expense,10502,income
+2026-04-09,zomato order,472,food
+2026-03-22,netflix subscription,1617,entertainment
+2026-02-04,freelance payment,5241,income
+2026-05-16,misc payment,1852,shopping
+2026-03-31,freelance payment,16490,income
+2026-04-24,random expense,623,travel
+2026-02-01,clothes shopping,1808,shopping
+2026-03-22,trip expense,395,travel
+2026-03-05,online order,1217,shopping
+2026-01-07,freelance payment,19965,income
+2026-05-11,bus ticket,2696,travel
+2026-01-14,uber ride,1037,travel
+2026-05-08,internship stipend,14832,income
+2026-03-23,auto ride,1773,travel
+2026-04-04,stationery,348,shopping
+2026-01-05,general spending,933,shopping
+2026-01-11,restaurant dinner,2125,food
+2026-03-15,bonus,16879,income
+2026-04-13,coffee cafe,2573,food
+2026-02-09,random expense,2144,entertainment
+2026-02-22,metro card recharge,2452,travel
+2026-01-17,weekend outing,1027,entertainment
+2026-01-15,other purchase,525,travel
+2026-04-27,clothes shopping,2778,shopping
+2026-02-14,misc payment,2923,food
+2026-01-03,bus ticket,2192,travel
+2026-05-13,pocket money,7159,income
+2026-03-10,internship stipend,13977,income
+2026-04-20,spotify subscription,2967,entertainment
+2026-05-28,other purchase,19737,income
+2026-04-03,coffee cafe,733,food
+2026-04-05,uber ride,2400,travel
+2026-01-30,uber ride,230,travel
+2026-01-04,general spending,1618,travel
+2026-02-08,uber ride,2314,travel
+2026-04-18,metro card recharge,3000,travel
+2026-03-23,concert ticket,1577,entertainment
+2026-01-31,amazon purchase,784,shopping
+2026-02-27,stationery,332,shopping
+2026-04-30,spotify subscription,1390,entertainment
+2026-01-23,clothes shopping,871,shopping
+2026-03-16,online order,1043,shopping
+2026-04-29,gaming,850,entertainment
+2026-05-20,metro card recharge,147,travel
+2026-03-01,amazon purchase,1422,shopping
+2026-01-01,pocket money,6406,income
+2026-02-22,stationery,2065,shopping
+2026-01-16,uber ride,229,travel
+2026-03-01,clothes shopping,1927,shopping
+2026-01-22,misc payment,2660,shopping
+2026-04-11,zomato order,1831,food
+2026-02-03,bus ticket,1659,travel
+2026-03-25,netflix subscription,355,entertainment
+2026-02-21,auto ride,496,travel
+2026-02-09,restaurant dinner,1336,food
+2026-04-15,dinner with friends,900,food
+2026-04-26,movie tickets,420,entertainment
+2026-02-10,internship stipend,10045,income
+2026-03-25,misc payment,1507,travel
+2026-04-12,general spending,1115,shopping
+2026-02-14,dinner with friends,1902,food
+2026-05-23,internship stipend,18140,income
+2026-01-27,random expense,960,travel
+2026-02-03,bus ticket,2861,travel
+2026-01-22,amazon purchase,139,shopping
+2026-01-17,metro card recharge,577,travel
+2026-01-24,other purchase,257,entertainment
+2026-02-13,stationery,2082,shopping
+2026-01-08,wifi bill,1499,bills
+2026-02-24,metro card recharge,658,travel
+2026-01-09,flipkart order,2701,shopping
+2026-03-17,monthly recharge,299,bills
+2026-01-23,gaming,866,entertainment
+2026-05-15,auto ride,129,travel
+2026-04-08,bonus,14273,income
+2026-05-25,clothes shopping,786,shopping
+2026-01-07,movie tickets,1200,entertainment
+2026-01-15,wifi bill,703,bills
+2026-01-26,bus ticket,2235,travel
+2026-01-15,metro card recharge,1503,travel
+2026-02-14,bus ticket,2907,travel
+2026-04-02,general spending,2375,shopping
+2026-05-25,ola cab,2066,travel
+2026-05-19,movie tickets,419,entertainment
+2026-01-15,uber ride,2206,travel
+2026-05-03,coffee cafe,875,food
+2026-02-03,spotify subscription,293,entertainment
+2026-01-06,ola cab,504,travel
+2026-05-15,spotify subscription,2935,entertainment
+2026-04-12,general spending,1371,shopping
+2026-02-04,metro card recharge,2668,travel
+2026-05-05,pocket money,10315,income
+2026-05-31,trip expense,2870,travel
+2026-03-17,uber ride,2925,travel
+2026-05-27,electricity bill,795,bills
+2026-03-23,online order,476,shopping
+2026-05-08,uber ride,1024,travel
+2026-03-30,movie tickets,2953,entertainment
+2026-03-27,misc payment,1072,bills
+2026-01-18,movie tickets,3000,entertainment
+2026-01-01,snacks,1768,food
+2026-02-12,monthly recharge,1488,bills
+2026-05-20,other purchase,2417,bills
+2026-02-27,uber ride,1257,travel
+2026-01-06,movie tickets,353,entertainment
+2026-03-29,ola cab,357,travel
+2026-05-21,coffee cafe,2027,food
+2026-01-08,wifi bill,2537,bills
+2026-04-22,general spending,891,travel
+2026-02-18,mobile recharge,2755,bills
+2026-03-14,movie tickets,1659,entertainment
+2026-05-27,flipkart order,273,shopping
+2026-04-03,canteen lunch,2761,food
+2026-05-03,misc payment,749,travel
+2026-03-16,zomato order,1313,food
+2026-04-12,mobile recharge,423,bills
+2026-05-20,monthly recharge,1563,bills
+2026-02-17,other purchase,1954,bills
+2026-03-09,auto ride,302,travel
+2026-02-08,internship stipend,14265,income
+2026-05-19,wifi bill,2317,bills
+2026-01-16,monthly recharge,2243,bills
+2026-05-02,stationery,1274,shopping
+2026-01-21,electricity bill,2106,bills
+2026-05-27,online order,653,shopping
+2026-01-31,wifi bill,917,bills
+2026-02-19,random expense,2848,travel
+2026-04-22,trip expense,655,travel
+2026-03-08,movie tickets,406,entertainment
+2026-04-10,clothes shopping,1181,shopping
+2026-05-14,electricity bill,2918,bills
+2026-05-31,amazon purchase,1747,shopping
+2026-02-08,auto ride,460,travel
+2026-01-28,clothes shopping,2243,shopping
+2026-03-30,monthly recharge,2393,bills
+2026-05-02,restaurant dinner,639,food
+2026-04-13,canteen lunch,2878,food
+2026-03-02,canteen lunch,1575,food
+2026-01-06,spotify subscription,1323,entertainment
+2026-03-13,electricity bill,983,bills
+2026-02-04,gaming,1364,entertainment
+2026-03-10,internship stipend,9158,income
+2026-04-24,metro card recharge,2034,travel
+2026-05-13,concert ticket,701,entertainment
+2026-01-17,gaming,605,entertainment
+2026-05-15,misc payment,872,shopping
+2026-01-15,random expense,1526,travel
+2026-02-20,gaming,2118,entertainment
+2026-04-12,internship stipend,10927,income
+2026-04-06,wifi bill,1993,bills
+2026-05-31,flipkart order,1109,shopping
+2026-01-24,random expense,717,entertainment
+2026-05-27,trip expense,972,travel
+2026-02-22,concert ticket,132,entertainment
+2026-01-03,wifi bill,2512,bills
+2026-01-03,bus ticket,2969,travel
+2026-03-12,mobile recharge,1930,bills
+2026-03-06,trip expense,2182,travel
+2026-04-12,general spending,2349,shopping
+2026-03-14,gaming,311,entertainment
+2026-03-28,spotify subscription,1119,entertainment
+2026-03-18,misc payment,282,travel
+2026-04-14,freelance payment,3834,income
+2026-05-08,gaming,1707,entertainment
+2026-04-10,misc payment,14244,income
+2026-02-26,bonus,14747,income
+2026-05-10,weekend outing,2336,entertainment
+2026-02-16,misc payment,1109,entertainment
+2026-05-24,bus ticket,2730,travel
+2026-01-23,trip expense,1307,travel
+2026-04-18,concert ticket,1254,entertainment
+2026-04-29,dinner with friends,2648,food
+2026-05-30,amazon purchase,1984,shopping
+2026-02-19,other purchase,2220,shopping
+2026-03-18,misc payment,612,bills
+2026-02-21,concert ticket,1924,entertainment
+2026-02-06,netflix subscription,381,entertainment
+2026-05-05,netflix subscription,1333,entertainment
+2026-01-15,swiggy order,740,food
+2026-05-28,uber ride,580,travel
+2026-04-22,bonus,18643,income
+2026-04-09,misc payment,1578,food
+2026-01-04,concert ticket,830,entertainment
+2026-01-05,misc payment,10414,income
+2026-03-30,other purchase,2111,entertainment
+2026-05-31,movie tickets,1271,entertainment
+2026-03-16,mobile recharge,1826,bills
+2026-02-04,gaming,1521,entertainment
+2026-02-18,metro card recharge,128,travel
+2026-02-28,ola cab,915,travel
+2026-01-06,amazon purchase,1551,shopping
+2026-01-10,mobile recharge,2240,bills
+2026-01-13,amazon purchase,2727,shopping
+2026-01-06,restaurant dinner,1869,food
+2026-04-08,restaurant dinner,2924,food
+2026-02-09,trip expense,88,travel
+2026-03-19,mobile recharge,2600,bills
+2026-02-05,electricity bill,2145,bills
+2026-01-31,random expense,2088,entertainment
+2026-02-20,clothes shopping,2192,shopping
+2026-02-21,spotify subscription,706,entertainment
+2026-01-11,flipkart order,2868,shopping
+2026-05-04,movie tickets,2801,entertainment
+2026-01-23,snacks,2073,food
+2026-02-08,zomato order,464,food
+2026-03-07,pocket money,11654,income
+2026-04-29,misc payment,211,food
+2026-03-16,spotify subscription,1794,entertainment
+2026-01-30,zomato order,89,food
+2026-02-05,pocket money,14715,income
+2026-04-23,amazon purchase,1576,shopping
+2026-03-29,other purchase,1919,travel
+2026-03-11,monthly recharge,1777,bills
+2026-02-12,random expense,702,food
+2026-01-27,monthly recharge,2380,bills
+2026-04-23,bus ticket,2554,travel
+2026-01-08,freelance payment,18829,income
+2026-05-05,restaurant dinner,238,food
+2026-01-17,movie tickets,2935,entertainment
+2026-05-15,freelance payment,14085,income
+2026-05-13,online order,440,shopping
+2026-04-21,bonus,14329,income
+2026-04-09,auto ride,2560,travel
+2026-01-14,swiggy order,2120,food
+2026-05-01,electricity bill,2063,bills
+2026-03-24,bus ticket,256,travel
+2026-05-10,metro card recharge,1701,travel
+2026-03-02,dinner with friends,2397,food
+2026-04-25,restaurant dinner,1344,food
+2026-01-31,electricity bill,470,bills
+2026-04-14,random expense,422,bills
+2026-03-19,stationery,1446,shopping
+2026-04-04,dinner with friends,1911,food
+2026-03-26,online order,1987,shopping
+2026-04-04,internship stipend,10266,income
+2026-01-01,weekend outing,1245,entertainment
+2026-05-21,amazon purchase,237,shopping
+2026-02-12,other purchase,488,bills
+2026-03-07,amazon purchase,1659,shopping
+2026-02-25,wifi bill,2985,bills
+2026-03-28,zomato order,2643,food
+2026-05-31,restaurant dinner,1923,food
+2026-05-31,other purchase,67,shopping
+2026-05-16,other purchase,18824,income
+2026-05-11,ola cab,575,travel
+2026-01-27,mobile recharge,2114,bills
+2026-04-09,wifi bill,1170,bills
+2026-04-12,gaming,596,entertainment
+2026-02-05,mobile recharge,2923,bills
+2026-05-21,concert ticket,2641,entertainment
+2026-02-25,trip expense,1240,travel
+2026-03-30,misc payment,19511,income
+2026-05-19,internship stipend,14542,income
+2026-05-24,monthly recharge,2811,bills
+2026-05-17,gaming,102,entertainment
+2026-05-14,misc payment,267,food
+2026-01-15,ola cab,1223,travel
+2026-03-06,trip expense,1258,travel
+2026-02-22,other purchase,469,shopping
+2026-05-24,auto ride,1642,travel
+2026-03-02,clothes shopping,2888,shopping
+2026-01-13,mobile recharge,2311,bills
+2026-01-14,swiggy order,2591,food
+2026-04-24,trip expense,2956,travel
+2026-04-05,online order,854,shopping
+2026-02-19,weekend outing,355,entertainment
+2026-02-17,uber ride,1595,travel
+2026-01-11,mobile recharge,582,bills
+2026-02-11,amazon purchase,1403,shopping
+2026-04-30,internship stipend,8036,income
+2026-03-24,general spending,2059,shopping
+2026-05-27,clothes shopping,2202,shopping
+2026-02-26,auto ride,702,travel
+2026-04-17,amazon purchase,1481,shopping
+2026-02-26,bus ticket,1527,travel
+2026-03-17,auto ride,2222,travel
+2026-05-02,amazon purchase,519,shopping
+2026-03-30,wifi bill,213,bills
+2026-03-24,electricity bill,1630,bills
+2026-03-07,amazon purchase,2167,shopping
+2026-04-06,stationery,2043,shopping
+2026-01-12,netflix subscription,1362,entertainment
+2026-05-12,swiggy order,2253,food
+2026-05-17,swiggy order,2795,food
+2026-02-24,internship stipend,9736,income
+2026-05-18,bonus,5363,income
+2026-02-09,canteen lunch,205,food
+2026-01-23,general spending,2335,food
+2026-01-19,clothes shopping,1719,shopping
+2026-04-10,monthly recharge,1345,bills
+2026-01-05,electricity bill,2677,bills
+2026-01-17,internship stipend,14721,income
+2026-05-09,snacks,1284,food
+2026-01-23,gaming,1612,entertainment
+2026-04-12,misc payment,10204,income
+2026-02-04,pocket money,7721,income
+2026-03-18,pocket money,3365,income
+2026-05-22,random expense,70,shopping
+2026-05-27,online order,398,shopping
+2026-03-20,trip expense,1458,travel
+2026-02-24,wifi bill,709,bills
+2026-02-17,bus ticket,845,travel
+2026-01-30,auto ride,272,travel
+2026-05-21,electricity bill,1240,bills
+2026-01-18,other purchase,1405,entertainment
+2026-04-02,ola cab,459,travel
+2026-03-14,misc payment,1351,shopping
+2026-05-05,mobile recharge,2890,bills
+2026-05-30,bus ticket,1345,travel
+2026-04-20,misc payment,957,travel
+2026-04-22,netflix subscription,2833,entertainment
+2026-03-26,mobile recharge,1301,bills
+2026-05-05,random expense,1199,shopping
+2026-02-05,amazon purchase,358,shopping
+2026-01-05,online order,2421,shopping
+2026-04-14,amazon purchase,2309,shopping
+2026-03-08,online order,1983,shopping
+2026-02-08,concert ticket,1241,entertainment
+2026-02-04,electricity bill,1675,bills
+2026-04-04,misc payment,2565,shopping
+2026-02-12,misc payment,783,shopping
+2026-05-25,flipkart order,2030,shopping
+2026-04-02,restaurant dinner,999,food
+2026-01-17,movie tickets,2788,entertainment
+2026-02-22,clothes shopping,1639,shopping
+2026-05-01,electricity bill,2706,bills
+2026-03-24,coffee cafe,2645,food
+2026-03-12,freelance payment,15342,income
+2026-04-07,movie tickets,2166,entertainment
+2026-03-06,wifi bill,2165,bills
+2026-04-14,spotify subscription,2044,entertainment
+2026-05-04,misc payment,1851,shopping
+2026-02-12,general spending,916,travel
+2026-02-08,auto ride,2988,travel
+2026-01-31,pocket money,6713,income
+2026-05-04,freelance payment,8283,income
+2026-04-16,swiggy order,2399,food
+2026-02-11,uber ride,2394,travel
+2026-02-07,swiggy order,2166,food
+2026-04-14,amazon purchase,2997,shopping
+2026-03-14,coffee cafe,1980,food
+2026-05-04,metro card recharge,2511,travel
+2026-02-06,flipkart order,2602,shopping
+2026-05-11,weekend outing,1453,entertainment
+2026-04-27,flipkart order,1599,shopping
+2026-04-09,misc payment,2191,travel
+2026-05-10,freelance payment,6155,income
+2026-02-15,electricity bill,2226,bills
+2026-05-09,misc payment,2521,food
+2026-05-19,dinner with friends,2829,food
+2026-04-21,amazon purchase,2907,shopping
+2026-05-16,monthly recharge,1611,bills
+2026-03-31,online order,450,shopping
+2026-04-19,ola cab,393,travel
+2026-03-14,stationery,1105,shopping
+2026-02-18,dinner with friends,79,food
+2026-05-28,random expense,1586,shopping
+2026-02-22,bonus,14870,income
+2026-01-28,auto ride,1088,travel
+2026-03-08,clothes shopping,2556,shopping
+2026-03-12,freelance payment,16540,income
+2026-05-22,clothes shopping,2340,shopping
+2026-05-23,mobile recharge,2416,bills
+2026-03-30,freelance payment,6902,income
+2026-02-28,wifi bill,460,bills
+2026-02-24,clothes shopping,2305,shopping
+2026-01-14,trip expense,71,travel
+2026-01-24,auto ride,1833,travel
+2026-01-23,canteen lunch,377,food
+2026-01-10,bonus,12387,income
+2026-01-15,metro card recharge,93,travel
+2026-02-21,pocket money,9381,income
+2026-01-09,flipkart order,2569,shopping
+2026-02-13,misc payment,3009,income
+2026-02-10,dinner with friends,1686,food
+2026-04-01,freelance payment,19965,income
+2026-01-04,internship stipend,12322,income
+2026-05-24,clothes shopping,976,shopping
+2026-02-19,electricity bill,1119,bills
+2026-02-14,electricity bill,2110,bills
+2026-03-17,concert ticket,1105,entertainment
+2026-05-18,stationery,1594,shopping
+2026-05-25,mobile recharge,1929,bills
+2026-04-28,stationery,526,shopping
+2026-03-08,dinner with friends,952,food
+2026-02-28,spotify subscription,2165,entertainment
+2026-05-18,canteen lunch,1066,food
+2026-03-15,snacks,1450,food
+2026-01-20,stationery,1335,shopping
+2026-04-01,bus ticket,798,travel
+2026-02-18,wifi bill,1041,bills
+2026-03-09,ola cab,2583,travel
+2026-04-02,uber ride,371,travel
+2026-05-07,random expense,2025,shopping
+2026-04-06,online order,1175,shopping
+2026-05-06,auto ride,1197,travel
+2026-04-12,ola cab,271,travel
+2026-05-15,electricity bill,2108,bills
+2026-03-30,wifi bill,1922,bills
+2026-01-31,pocket money,3275,income
+2026-01-04,internship stipend,13663,income
+2026-04-03,flipkart order,2296,shopping
+2026-03-09,auto ride,1455,travel
+2026-04-04,ola cab,1766,travel
+2026-04-06,spotify subscription,1896,entertainment
+2026-02-16,misc payment,459,shopping
+2026-03-11,metro card recharge,853,travel
+2026-02-07,random expense,8787,income
+2026-04-18,general spending,2043,bills
+2026-03-18,concert ticket,245,entertainment
+2026-04-12,zomato order,932,food
+2026-03-07,electricity bill,1892,bills
+2026-03-27,concert ticket,2333,entertainment
+2026-03-07,random expense,1488,entertainment
+2026-02-20,online order,764,shopping
+2026-03-14,concert ticket,2046,entertainment
+2026-04-25,canteen lunch,1949,food
+2026-02-07,bus ticket,1777,travel
+2026-05-27,electricity bill,374,bills
+2026-02-11,spotify subscription,2724,entertainment
+2026-03-16,bonus,11888,income
+2026-04-24,concert ticket,1894,entertainment
+2026-04-16,uber ride,562,travel
+2026-03-02,internship stipend,9900,income
+2026-02-12,random expense,1988,bills
+2026-05-21,other purchase,2196,food
+2026-01-22,swiggy order,395,food
+2026-04-10,weekend outing,1213,entertainment
+2026-04-24,misc payment,3936,income
+2026-01-09,pocket money,18602,income
+2026-04-30,online order,1872,shopping
+2026-02-04,bonus,17253,income
+2026-05-15,pocket money,14376,income
+2026-05-04,amazon purchase,1859,shopping
+2026-03-20,netflix subscription,1293,entertainment
+2026-01-03,dinner with friends,608,food
+2026-03-30,movie tickets,2867,entertainment
+2026-05-06,monthly recharge,1249,bills
+2026-03-01,swiggy order,1736,food
+2026-05-24,wifi bill,2978,bills
+2026-04-10,electricity bill,1779,bills
+2026-03-03,online order,2892,shopping
+2026-03-11,concert ticket,1151,entertainment
+2026-04-16,ola cab,609,travel
+2026-03-16,coffee cafe,1904,food
+2026-03-11,freelance payment,13506,income
+2026-01-05,random expense,811,travel
+2026-01-27,weekend outing,1845,entertainment
+2026-01-03,random expense,2071,travel
+2026-02-25,gaming,1571,entertainment
+2026-04-29,pocket money,5628,income
+2026-02-07,restaurant dinner,342,food
+2026-05-20,mobile recharge,1612,bills
+2026-01-04,snacks,1069,food
+2026-04-09,electricity bill,865,bills
+2026-04-28,freelance payment,18493,income
+2026-04-10,pocket money,8197,income
+2026-01-11,internship stipend,11300,income
+2026-05-04,pocket money,4706,income
+2026-02-25,restaurant dinner,1379,food
+2026-01-04,auto ride,540,travel
+2026-04-12,random expense,2430,travel
+2026-05-02,pocket money,5932,income
+2026-03-05,trip expense,2583,travel
+2026-03-28,general spending,8043,income
+2026-05-18,misc payment,1347,food
+2026-05-23,bonus,9323,income
+2026-01-06,freelance payment,11214,income
+2026-01-11,mobile recharge,2273,bills
+2026-05-06,auto ride,1474,travel
+2026-03-24,freelance payment,5256,income
+2026-05-16,bus ticket,2268,travel
+2026-04-04,other purchase,809,bills
+2026-01-05,online order,1028,shopping
+2026-03-24,other purchase,9221,income
+2026-05-15,freelance payment,12277,income
+2026-03-24,electricity bill,444,bills
+2026-05-14,misc payment,8853,income
+2026-01-09,misc payment,454,travel
+2026-01-09,stationery,2744,shopping
+2026-05-06,online order,1098,shopping
+2026-01-13,weekend outing,340,entertainment
+2026-01-04,uber ride,1967,travel
+2026-01-16,gaming,1561,entertainment
+2026-01-15,amazon purchase,338,shopping
+2026-03-19,coffee cafe,447,food
+2026-01-26,bonus,9208,income
+2026-02-19,online order,2611,shopping
+2026-02-15,stationery,482,shopping
+2026-05-28,weekend outing,2774,entertainment
+2026-04-20,swiggy order,2302,food
+2026-04-13,flipkart order,2236,shopping
+2026-04-24,concert ticket,1379,entertainment
+2026-04-06,monthly recharge,1374,bills
+2026-03-03,stationery,2303,shopping
+2026-03-07,gaming,1676,entertainment
+2026-01-01,general spending,3534,income
+2026-05-13,bus ticket,76,travel
+2026-03-18,bus ticket,138,travel
+2026-03-12,online order,2391,shopping
+2026-02-09,general spending,689,food
+2026-02-05,concert ticket,1073,entertainment
+2026-03-01,movie tickets,2386,entertainment
+2026-04-13,amazon purchase,1379,shopping
+2026-05-04,trip expense,2928,travel
+2026-05-28,canteen lunch,203,food
+2026-05-28,random expense,1419,bills
+2026-03-31,electricity bill,978,bills
+2026-01-03,bonus,4773,income
+2026-03-20,misc payment,1388,shopping
+2026-05-09,internship stipend,15873,income
+2026-04-25,amazon purchase,959,shopping
+2026-04-21,netflix subscription,591,entertainment
+2026-03-28,snacks,251,food
+2026-05-21,monthly recharge,2105,bills
+2026-04-22,misc payment,18758,income
+2026-05-24,trip expense,2390,travel
+2026-02-20,online order,1058,shopping
+2026-03-04,restaurant dinner,1374,food
+2026-05-28,other purchase,1784,food
+2026-04-04,spotify subscription,2482,entertainment
+2026-01-07,spotify subscription,2574,entertainment
+2026-04-24,random expense,1006,shopping
+2026-02-21,internship stipend,6682,income
+2026-01-14,ola cab,1228,travel
+2026-01-04,movie tickets,1299,entertainment
+2026-04-26,misc payment,2253,bills
+2026-02-24,bus ticket,2297,travel
+2026-05-04,flipkart order,2897,shopping
+2026-01-05,electricity bill,1096,bills
+2026-02-13,dinner with friends,2902,food
+2026-03-11,zomato order,322,food
+2026-04-10,pocket money,6535,income
+2026-01-05,weekend outing,1633,entertainment
+2026-03-01,electricity bill,1342,bills
+2026-05-05,flipkart order,864,shopping
+2026-05-09,electricity bill,212,bills
+2026-03-05,stationery,1661,shopping
+2026-02-10,canteen lunch,1505,food
+2026-03-19,auto ride,1179,travel
+2026-01-16,bonus,3965,income
+2026-05-23,spotify subscription,1659,entertainment
+2026-02-05,coffee cafe,2827,food
+2026-02-28,wifi bill,1796,bills
+2026-03-21,online order,589,shopping
+2026-02-22,misc payment,7525,income
+2026-03-21,freelance payment,17092,income
+2026-02-07,freelance payment,13403,income
+2026-01-18,amazon purchase,804,shopping
+2026-03-23,bus ticket,1745,travel
+2026-04-16,weekend outing,1171,entertainment
+2026-02-08,misc payment,157,travel
+2026-03-10,flipkart order,2492,shopping
+2026-03-01,bus ticket,375,travel
+2026-05-03,auto ride,1970,travel
+2026-04-06,metro card recharge,1990,travel
+2026-02-05,uber ride,1723,travel
+2026-01-04,netflix subscription,2799,entertainment
+2026-02-21,other purchase,2577,travel
+2026-05-06,bonus,11086,income
+2026-04-20,monthly recharge,2999,bills
+2026-03-22,electricity bill,2182,bills
+2026-01-28,electricity bill,1056,bills
+2026-05-13,amazon purchase,2334,shopping
+2026-04-10,amazon purchase,827,shopping
+2026-03-16,mobile recharge,1221,bills
+2026-04-29,auto ride,273,travel
+2026-05-13,trip expense,1900,travel
+2026-01-24,freelance payment,7433,income
+2026-04-11,electricity bill,782,bills
+2026-04-27,flipkart order,1912,shopping
+2026-01-24,weekend outing,2964,entertainment
+2026-02-11,internship stipend,6740,income
