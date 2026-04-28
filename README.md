@@ -16,8 +16,7 @@ Turning messy transactions into clear financial decisions.
 
 ## 🚀 Live Demo
 
-👉 **[Try DoomSpend Now](https://your-app.streamlit.app)**
-*(Replace with your actual deployed link)*
+👉 https://doomspend.streamlit.app/
 
 ---
 
@@ -229,16 +228,3 @@ B.Tech Computer Engineering
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub — it helps a lot!
-
----
-
-### 🔥 Final Tip (important)
-
-Before uploading:
-
-* Create folder: `assets/`
-* Add screenshots:
-
-  * `dashboard.png`
-  * `distribution.png`
-  * `cashflow.png`
