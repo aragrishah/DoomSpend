@@ -91,17 +91,15 @@ Insights + Anomaly Detection + Recommendations
 
 ### 📊 Dashboard Overview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.jpg)
 
 ### 📈 Spending Distribution
 
-![Distribution](assets/distribution.png)
+![Distribution](assets/distribution.jpg)
 
 ### 💰 Cash Flow Health
 
-![Cash Flow](assets/cashflow.png)
-
-> *(Create an `assets/` folder and add your screenshots here)*
+![Cash Flow](assets/cashflow.jpg)
 
 ---
 
